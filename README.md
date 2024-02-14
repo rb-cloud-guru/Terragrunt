@@ -1,10 +1,6 @@
 How to use Terragrunt with Terraform modules with a single dependency. 
 Pretty much just a base for future work
 ```````````````````````````````````````````
-Detected Terragrunt directory at ./network
-  ✔ Downloading Terraform modules
-  ✔ Evaluating Terraform directory
-  ✔ Retrieving cloud prices to calculate costs
 
 Using Infracost as an Example
 
@@ -21,3 +17,4 @@ Using Infracost as an Example
 ┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╋━━━━━━━━━━━━━━┫
 ┃ rb-cloud-guru/Terragrunt/network                   ┃ $0.00        ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━┛
+```````````````````````````````````````````
