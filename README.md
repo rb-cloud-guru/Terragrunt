@@ -6,7 +6,8 @@ Detected Terragrunt directory at ./network
   ✔ Evaluating Terraform directory
   ✔ Retrieving cloud prices to calculate costs
 
-Project: rb-cloud-guru/Terragrunt/network
+```````````````````````````````````````````
+Using Infracost as an Example
 
  Name  Monthly Qty  Unit  Monthly Cost
 
