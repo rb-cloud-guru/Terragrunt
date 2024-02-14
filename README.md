@@ -6,7 +6,6 @@ Detected Terragrunt directory at ./network
   ✔ Evaluating Terraform directory
   ✔ Retrieving cloud prices to calculate costs
 
-```````````````````````````````````````````
 Using Infracost as an Example
 
  Name  Monthly Qty  Unit  Monthly Cost
