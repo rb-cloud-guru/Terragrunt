@@ -1,20 +1,5 @@
 ## How to use Terragrunt with Terraform modules with a single dependency. 
 
-```````````````````````````````````````````
 
-Using Infracost as an Example
+![image](https://github.com/rb-cloud-guru/Terragrunt/assets/17112592/59e555a6-c6e5-428e-b70e-54f1b64b5838)
 
- Name  Monthly Qty  Unit  Monthly Cost
-
- OVERALL TOTAL                   $0.00
-──────────────────────────────────
-1 cloud resource was detected:
-∙ 0 were estimated
-∙ 1 was free, rerun with --show-skipped to see details
-
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━┓
-┃ Project                                            ┃ Monthly cost ┃
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╋━━━━━━━━━━━━━━┫
-┃ rb-cloud-guru/Terragrunt/network                   ┃ $0.00        ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━┛
-```````````````````````````````````````````
